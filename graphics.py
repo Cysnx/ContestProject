@@ -25,10 +25,10 @@ class Canvas(tkinter.Canvas):
     if needed.
     """
 
-    DEFAULT_WIDTH = 500
+    DEFAULT_WIDTH = 1000
     """The default width of the canvas is 500."""
 
-    DEFAULT_HEIGHT = 600
+    DEFAULT_HEIGHT = 1000
     """The default height of the canvas is 600."""
 
     DEFAULT_TITLE = "Canvas"
